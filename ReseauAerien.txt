@@ -1,0 +1,99 @@
+Reseau Aerien: Air Canada
+17 villes
+20 trajets
+Liste des villes:
+Quebec
+46.80 -71.24
+Montreal
+45.51 -73.55
+Paris
+48.86 2.35
+La_Havane
+23.12 -82.39
+Detroit
+42.33 -83.05
+Ottawa
+45.41 -75.70
+Vancouver
+49.26 -123.12
+Toronto
+43.65 -79.38
+Bogota
+4.60 -74.08
+Bruxelles
+50.85 4.35
+Bujumbura
+-3.38 29.36
+Iqaluit
+63.75 -68.52
+Chicago
+41.88 -87.63
+Tokyo
+35.69 139.69
+Auckland
+-36.85 174.76
+New_York
+40.71 -74.01
+Singapour
+1.29 103.85
+Liste des trajets:
+Quebec
+Montreal
+0.80 220.46 -1
+Montreal
+Quebec
+0.83 149.78 2
+Montreal
+Paris
+6.27 723.96 -2
+Montreal
+New_York
+1.91 402.78 3 
+Paris
+Montreal
+6.32 892.39 3
+Quebec
+La_Havane
+3.34 492.21 4
+Montreal
+Detroit
+1.25 699.74 -2
+Montreal
+Ottawa
+0.66 192.46 -1
+Montreal
+Vancouver
+2.75 589.74 -2
+Toronto
+Bogota
+5.12 902.15 5
+Montreal
+Toronto
+1.32 321.98 1
+Vancouver
+Toronto
+3.87 621.46 2
+Montreal
+Bruxelles
+6.87 823.96 3
+Bruxelles
+Bujumbura
+6.87 823.96 6
+Ottawa
+Iqaluit
+3.21 727.74 4
+Quebec
+Chicago
+2.08 620.78 -3
+Vancouver
+Tokyo
+8.65 1276.42 4
+Vancouver
+Auckland
+13.15 2351.71 7
+Chicago
+Vancouver
+4.78 1521.44 -4
+Bujumbura
+Bruxelles
+7.26 937.46 8
